@@ -36,4 +36,6 @@ print bipar_summary
 ```
 ### Example
 Text - Narendra Modi's Wikipedia Page (https://en.wikipedia.org/wiki/Narendra_Modi)
-Results
+
+Summary (5 Lines)
+![](example.png)
