@@ -38,4 +38,4 @@ print bipar_summary
 Text - Narendra Modi's Wikipedia Page (https://en.wikipedia.org/wiki/Narendra_Modi)
 
 Summary (5 Lines)
-![](example.png)
+![](modi_example.png)
