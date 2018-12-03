@@ -39,3 +39,8 @@ Text - Narendra Modi's Wikipedia Page (https://en.wikipedia.org/wiki/Narendra_Mo
 
 Summary (5 Lines)
 ![](modi_example.png)
+
+### References
+- Erkan, Günes, and Dragomir R. Radev. "Lexrank: Graph-based lexical centrality as salience in text summarization." Journal of artificial intelligence research 22 (2004): 457-479.
+
+- Qazvinian, Vahed, et al. "Generating extractive summaries of scientific paradigms." Journal of Artificial Intelligence Research 46 (2013): 165-201.
